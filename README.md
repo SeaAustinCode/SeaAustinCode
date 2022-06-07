@@ -1,6 +1,6 @@
 <h2 align="center">
 Hello everyone! 
-My name is Austin O'Neil, I'm a recent graduate from Coding Dojo. I will be working on developing my GitHub over the coming days, check back in to learn more!
+My name is Austin O'Neil, I'm a recent graduate from Coding Dojo. Previously I studied Advertising at <img src="https://media-exp1.licdn.com/dms/image/C560BAQGfChk-QhW3ug/company-logo_200_200/0/1631713534483?e=1662595200&v=beta&t=YfAnWp3SviyNDDtnQezJkpefJELmEbJIA1pbi2z2HQ0"/> I will be working on developing my GitHub over the coming days, check back in to learn more!
 </h2>
 
 
@@ -31,6 +31,7 @@ My name is Austin O'Neil, I'm a recent graduate from Coding Dojo. I will be work
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="50" height="50"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="Spring" alt="Spring" width="50" height="50"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/tomcat/tomcat-line-wordmark.svg" title="Tomcat" alt="Tomcat" width="50" height="50"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="50" height="50"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original-wordmark.svg" title="Flask" alt="Flask" width="50" height="50"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="50" height="50"/>&nbsp;
