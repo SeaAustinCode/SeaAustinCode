@@ -1,6 +1,6 @@
 <h2 align="center">
 Hello everyone! 
-My name is Austin O'Neil, I'm a recent graduate from Coding Dojo. Previously I studied Advertising at <img src="https://media-exp1.licdn.com/dms/image/C560BAQGfChk-QhW3ug/company-logo_200_200/0/1631713534483?e=1662595200&v=beta&t=YfAnWp3SviyNDDtnQezJkpefJELmEbJIA1pbi2z2HQ0"/> I will be working on developing my GitHub over the coming days, check back in to learn more!
+My name is Austin O'Neil, I'm a recent graduate from Coding Dojo. Previously I studied Advertising at <img src="https://media-exp1.licdn.com/dms/image/C560BAQGfChk-QhW3ug/company-logo_200_200/0/1631713534483?e=1662595200&v=beta&t=YfAnWp3SviyNDDtnQezJkpefJELmEbJIA1pbi2z2HQ0" width="50" height="50"/> I will be working on developing my GitHub over the coming days, check back in to learn more!
 </h2>
 
 
