@@ -40,6 +40,7 @@ My name is Austin O'Neil, I'm a recent graduate from Coding Dojo. Previously I s
   </p>
 
   <h2 align="center">More About Me</h2>
+  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SeaAustinCode)](https://github.com/anuraghazra/github-readme-stats)
 
 ![](https://komarev.com/ghpvc/?username=SeaAustinCode&color=blueviolet)&nbsp;
