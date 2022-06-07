@@ -3,8 +3,6 @@ Hello everyone!
 My name is Austin O'Neil, I'm a recent graduate from Coding Dojo. Previously I studied Advertising at <img src="https://media-exp1.licdn.com/dms/image/C560BAQGfChk-QhW3ug/company-logo_200_200/0/1631713534483?e=1662595200&v=beta&t=YfAnWp3SviyNDDtnQezJkpefJELmEbJIA1pbi2z2HQ0" width="25" height="25"/> I will be working on developing my GitHub over the coming days, check back in to learn more!
 </h2>
 
-![SeaAustinCode's GitHub stats](https://github-readme-stats.vercel.app/api?username=SeaAustinCode&hide=stars,contribs,prs,issues)
-
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
@@ -38,8 +36,12 @@ My name is Austin O'Neil, I'm a recent graduate from Coding Dojo. Previously I s
   <img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original-wordmark.svg" title="Flask" alt="Flask" width="50" height="50"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="50" height="50"/>&nbsp;
 </div>
+  <p>
+  </p>
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SeaAustinCode)](https://github.com/anuraghazra/github-readme-stats)
 
 ![](https://komarev.com/ghpvc/?username=SeaAustinCode&color=blueviolet)&nbsp;
+  
+![SeaAustinCode's GitHub stats](https://github-readme-stats.vercel.app/api?username=SeaAustinCode&hide=stars,contribs,prs,issues)
 </div>
