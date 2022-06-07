@@ -4,8 +4,8 @@ My name is Austin O'Neil, I'm a recent graduate from Coding Dojo. Previously I s
 </h2>
 
 
-![](https://komarev.com/ghpvc/?username=SeaAustinCode&color=blueviolet)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SeaAustinCode)](https://github.com/SeaAustinCode/github-readme-stats)
+![](https://komarev.com/ghpvc/?username=SeaAustinCode&color=blueviolet)&nbsp;
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SeaAustinCode)](https://github.com/SeaAustinCode&hide=prs,issues,contribs)
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
