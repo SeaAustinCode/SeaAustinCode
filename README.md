@@ -1,7 +1,7 @@
-<h1 align="center">
+<h2 align="center">
 Hello everyone! 
 My name is Austin O'Neil, I'm a recent graduate from Coding Dojo. I will be working on developing my GitHub over the coming days, check back in to learn more!
-</h1>
+</h2>
 
 
 
@@ -13,7 +13,7 @@ My name is Austin O'Neil, I'm a recent graduate from Coding Dojo. I will be work
 
 <div background-color="silver" align="center">
   
-  <h1 align="center">Tech Stack</h1>
+  <h2 align="center">Tech Stack</h2>
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" title="MongoDB" alt="Mongo_DB" width="50" height="50"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original-wordmark.svg" title="Express" alt="Express" width="50" height="50"/>&nbsp;
