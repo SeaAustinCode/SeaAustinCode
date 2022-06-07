@@ -12,7 +12,8 @@ My name is Austin O'Neil, I'm a recent graduate from Coding Dojo. I will be work
 <!-- [![trophy](https://github-profile-trophy.vercel.app/?username=SeaAustinCode)](https://github.com/SeaAustinCode/github-profile-trophy) -->
 
 <div background-color="silver" align="center">
-
+  
+  <h1 align="center"> I am proficient in the following languages! </h1>
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" title="MongoDB" alt="Mongo_DB" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original-wordmark.svg" title="Express" alt="Express" width="40" height="40"/>&nbsp;
