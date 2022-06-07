@@ -10,6 +10,8 @@ My name is Austin O'Neil, I'm a recent graduate from Coding Dojo. I will be work
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=SeaAustinCode)](https://github.com/SeaAustinCode/github-profile-trophy)
 
+<div background-color="silver" align="center">
+
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" title="MongoDB" alt="Mongo_DB" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original-wordmark.svg" title="Express" alt="Express" width="40" height="40"/>&nbsp;
@@ -29,4 +31,6 @@ My name is Austin O'Neil, I'm a recent graduate from Coding Dojo. I will be work
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original-wordmark.svg" title="Flask" alt="Flask" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
+</div>
+  
 </div>
