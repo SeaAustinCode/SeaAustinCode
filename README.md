@@ -1,6 +1,6 @@
 <h2 align="center">
 Hello everyone! 
-My name is Austin O'Neil, I'm a recent graduate from Coding Dojo. Previously I studied Advertising at <img src="https://media-exp1.licdn.com/dms/image/C560BAQGfChk-QhW3ug/company-logo_200_200/0/1631713534483?e=1662595200&v=beta&t=YfAnWp3SviyNDDtnQezJkpefJELmEbJIA1pbi2z2HQ0" width="25" height="25"/> I am currently job searching for a new role. Feel free to contact me at SeaAustinCode@gmail.com with any inquiries that you may have! 
+My name is Austin O'Neil, I'm a recent graduate from Coding Dojo. Previously I studied Advertising at <img src="https://upload.wikimedia.org/wikipedia/en/thumb/0/07/Washington_State_Cougars_logo.svg/1024px-Washington_State_Cougars_logo.svg.png" width="25" height="25"/> I am currently job searching for a new role. Feel free to contact me at SeaAustinCode@gmail.com with any inquiries that you may have! 
 </h2>
 
 <div id="header" align="center">
