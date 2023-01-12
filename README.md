@@ -43,11 +43,11 @@ My name is Austin O'Neil, I am currently seeking a position as a front end or fu
 
   <h2 align="center">More About Me</h2>
   
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SeaAustinCode)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SeaAustinCode)](https://github.com/anuraghazra/github-readme-stats) -->
   
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SeaAustinCode)](https://github.com/anuraghazra/github-readme-stats) -->
 
 ![](https://komarev.com/ghpvc/?username=SeaAustinCode&color=blueviolet)&nbsp;
   
-![SeaAustinCode's GitHub stats](https://github-readme-stats.vercel.app/api?username=SeaAustinCode&hide=stars,contribs,prs,issues)
+<!-- ![SeaAustinCode's GitHub stats](https://github-readme-stats.vercel.app/api?username=SeaAustinCode&hide=stars,contribs,prs,issues) -->
 </div>
