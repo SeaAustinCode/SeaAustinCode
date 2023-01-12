@@ -41,7 +41,7 @@ My name is Austin O'Neil, I am currently seeking a position as a front end or fu
   <p>
   </p>
 
-  <h2 align="center">More About Me</h2>
+<!--   <h2 align="center">More About Me</h2> -->
   
 <!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SeaAustinCode)](https://github.com/anuraghazra/github-readme-stats) -->
   
