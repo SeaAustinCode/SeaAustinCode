@@ -1,6 +1,6 @@
 <h2 align="center">
 Hello everyone! 
-My name is Austin O'Neil, I am currently seeking a position as a front end or full stack developer! Previously I studied Advertising at <img src="https://upload.wikimedia.org/wikipedia/en/thumb/0/07/Washington_State_Cougars_logo.svg/1024px-Washington_State_Cougars_logo.svg.png" width="25" height="25"/>Feel free to contact me at SeaAustinCode@gmail.com with any inquiries that you may have! 
+My name is Austin O'Neil, I am currently seeking a position as a front end or full stack developer! Previously I studied Advertising at <img src="https://upload.wikimedia.org/wikipedia/en/thumb/0/07/Washington_State_Cougars_logo.svg/1024px-Washington_State_Cougars_logo.svg.png" width="25" height="25"/> Feel free to contact me at SeaAustinCode@gmail.com with any inquiries that you may have! 
 </h2>
 
 <div id="header" align="center">
